@@ -1,4 +1,10 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    /* margin: 0px;
+    padding: 0px; */
+  cursor: url("https://media.istockphoto.com/id/1310060658/vector/thinking-emoticon-question-face-emoji-with-eyeglasses-vector-illustration.jpg?s=612x612&w=0&k=20&c=pNujEuBbCFfBGUPFNznD6gMVAJ_uGeFYMmjpPuby9Eg="),auto;
+}
+.long{
+    color:green;
+    /* cursor: pointer; */
+    
 }
